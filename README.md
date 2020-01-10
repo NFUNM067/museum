@@ -59,19 +59,52 @@
 1. 博物馆管理员通过博物馆智能管理系统对博物馆观览游客的精神状态进行了分析，知道了目前哪些游客处于精神状态，然后告知这部分游客可以在改时间段内进行活动，从而缓解他们兴奋的精神状态。
 2. 博物馆管理员通过博物馆智能管理系统对博物馆现场每个展览区域的人流量进行了统计，在人流量少的展览区域，可以告知该区域的游客可以自由活动放松来缓解他们的精神状态。
 
-## 交互及界面设计
+## （六）交互及界面设计
+
+1. 人体检测页面
+
+
+![](https://github.com/NFUNM067/museum/blob/master/pictures/%E4%BA%BA%E4%BD%93%E5%85%B3%E9%94%AE%E7%82%B9%E6%A3%80%E6%B5%8B.png)
+
+2. 人流量统计页面
+
+
+![](https://github.com/NFUNM067/museum/blob/master/pictures/%E4%BA%BA%E6%B5%81%E9%87%8F%E7%BB%9F%E8%AE%A1.png)
 
 
 
-## 信息设计 
+3. 我的页面
+
+
+![](https://github.com/NFUNM067/museum/blob/master/pictures/%E6%88%91%E7%9A%84.png)
 
 
 
-## 原型文档 
+## （七）信息设计 
+
+
+**1. 人脸考勤小程序信息结构图**
+
+
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 
 
-### 口头说明
+**2. 人脸考勤小程序信息流程图**
 
+
+
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E4%BA%BA%E8%84%B8%E8%80%83%E5%8B%A4%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+
+
+
+
+
+##  （八）原型文档 
+
+[原型文档下载区](https://gitee.com/nfunm067/museum_prototype)
+
+[原型文档交互展示](http://nfunm067.gitee.io/museum_prototype)
 
 
