@@ -86,7 +86,7 @@
 **1. 人脸考勤小程序信息结构图**
 
 
-![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+![](https://github.com/NFUNM067/museum/blob/master/pictures/%E5%8D%9A%E7%89%A9%E9%A6%86%E6%99%BA%E8%83%BD%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 
 
